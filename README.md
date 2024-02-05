@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @TheRealThomasFraser 
-- 👀 I'm interested in Computing Science  
+- 👋 Hi, I’m @TheRealThomasFraser  
 - 🌱 I’m currently learning Java, Web Design & Databases, Computer Systems and Discrete maths in my first year of uni
 
 <!---
