@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheRealThomasFraser  
-- 🌱 I’m currently learning Java, Web Design & Databases, Computer Systems and Discrete maths in my first year of uni
+- 🌱 I’m currently learning Java, Web Design & Databases, Computer Systems and Discrete maths in my first year of uni.
 
 <!---
 TheRealThomasFraser/TheRealThomasFraser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
