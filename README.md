@@ -2,16 +2,16 @@
 
 <h2> About Me 👤</h2>
 
-<p> I am a first year Computing Science Student, @ Heriot Watt University, Edinburgh. <br> This year, I'm studying the following courses: </p>
+<p> Hi there! My name is Thomas Fraser, an 18 year old from Fife, Scotland. I enjoy gaming, spending time with friends and my girlfriend and remembering semi colons...I am a soon to be second year Computing Science Student, @ Heriot Watt University, Edinburgh. <br> Next year, I'm studying the following courses: </p>
 <ul> 
-  <li> Logic and Proof </li>
-  <li> Introduction to Interaction Design </li>
-  <li> Praxis </li>
-  <li> Software Development 1</li>
-  <li> Discrete Maths</li>
-  <li> Web Design & Databases</li>
-  <li> Introduction to Computer Systems</li>
-  <li> Software Development 2</li>
+  <li> User-Centred Experimental Design </li>
+  <li> Progamming Languages </li>
+  <li> Introduction To Data Structures & Algorithms </li>
+  <li> Web Programming </li>
+  <li> Data Structures & Algorithms </li>
+  <li> Database Management Systems </li>
+  <li> Hardware-Software Interface </li>
+  <li> Introduction To Software Engineering </li>
 </ul>
 
 <h2> Languages 🌐</h2>
@@ -28,6 +28,16 @@
   <li> PHP </li>
   <li> Swift </li>
   <li> Shell Scripting (SH) </li>
+</ul>
+
+<h2> Tools 🛠️ </h2>
+
+<p> The tools i have experience with. </p>
+
+<ul> 
+  <li> VSCode </li>
+  <li> MySQL </li>
+  <li> Node.js </li>
 </ul>
 
 <h2> Github Stats 📊</h2>
