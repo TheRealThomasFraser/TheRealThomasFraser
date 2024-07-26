@@ -2,7 +2,7 @@
 
 <h2> About Me 👤</h2>
 
-<p> Hi there! My name is Thomas Fraser, an 18 year old from Fife, Scotland. I enjoy gaming, spending time with friends and my girlfriend and remembering semi colons...I am a soon to be second year Computing Science Student, @ Heriot Watt University, Edinburgh. <br> Next year, I'm studying the following courses: </p>
+<p> Hi there! My name is Thomas Fraser, an 18 year old from Fife, Scotland. I enjoy gaming, spending time with friends, my girlfriend and remembering semi colons...I am a soon to be second year Computing Science Student, @ Heriot Watt University, Edinburgh. <br> Next year, I'm studying the following courses: </p>
 <ul> 
   <li> User-Centred Experimental Design </li>
   <li> Progamming Languages </li>
