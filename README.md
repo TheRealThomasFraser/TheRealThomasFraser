@@ -1,47 +1,30 @@
-<h1> Hello 👋 </h1>
+<div align=center>
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=12&text=Hello%20There!%20👋&textBg=false&reversal=false">
 
-<h2> About Me 👤</h2>
+<img src="https://github.com/user-attachments/assets/711a58eb-fd3a-4543-8358-5336a3a2d394">
 
-<p> Hi there! My name is Thomas Fraser, an 18 year old from Fife, Scotland. I enjoy gaming, spending time with friends, my girlfriend and remembering semi colons...I am a soon to be second year Computing Science Student, @ Heriot Watt University, Edinburgh. <br> Next year, I'm studying the following courses: </p>
-<ul> 
-  <li> User-Centred Experimental Design </li>
-  <li> Progamming Languages </li>
-  <li> Introduction To Data Structures & Algorithms </li>
-  <li> Web Programming </li>
-  <li> Data Structures & Algorithms </li>
-  <li> Database Management Systems </li>
-  <li> Hardware-Software Interface </li>
-  <li> Introduction To Software Engineering </li>
-</ul>
+<h1> About Me 👤</h1>
 
-<h2> Languages 🌐</h2>
+<p>Hi there! My name is Thomas Fraser and I am an 18 year old from Fife, Scotland. I enjoy gaming, spending time with friends, my girlfriend and remembering semi colons...I am a soon to be second year Computing Science Student, @ Heriot Watt University, Edinburgh. <br> You can also find me here: </p>
 
-<p> The languages i have experience with. </p>
+<a href="https://www.linkedin.com/in/8thomas0fraser8/"> <img src="https://skillicons.dev/icons?i=linkedin"> </a>
 
-<ul> 
-  <li> Java </li>
-  <li> SQL </li>
-  <li> HTML </li>
-  <li> CSS </li>
-  <li> Javascript </li>
-  <li> Python </li>
-  <li> PHP </li>
-  <li> Swift </li>
-  <li> Shell Scripting (SH) </li>
-</ul>
+<h1> Languages & Tools I've Played Around With 🛠️</h1>
 
-<h2> Tools 🛠️ </h2>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=js,html,css,java,php,py,swift,mysql,bash,apple,bots,discordjs,nodejs,figma,gitlab,gamemakerstudio,eclipse,vscode&perline=9">
+</a>
 
-<p> The tools i have experience with. </p>
+<h1> My Achievements 🏆</h1>
 
-<ul> 
-  <li> VSCode </li>
-  <li> MySQL </li>
-  <li> Node.js </li>
-</ul>
+⭐️ Higher Computing Science Academic Achievement
 
-<h2> Github Stats 📊</h2>
+<h1> Github Stats 📊</h1>
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=TheRealThomasFraser)](https://github.com/TheRealThomasFraser)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealThomasFraser&layout=compact)](https://github.com/TheRealThomasFraser)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=TheRealThomasFraser&theme=ambient_gradient&rank_icon=github&custom_title=My%20Stats)](https://github.com/TheRealThomasFraser)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealThomasFraser&layout=compact&theme=ambient_gradient)](https://github.com/TheRealThomasFraser)
 
+<p align=center> <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=12&textBg=false&reversal=false&section=footer"> </p>
+
+</div>
