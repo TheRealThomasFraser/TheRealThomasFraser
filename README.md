@@ -18,6 +18,7 @@
 
 <h1> My Achievements 🏆</h1>
 
+⭐️ Heriot Watt Deputy Principal's Award
 ⭐️ Higher Computing Science Academic Achievement
 
 <h1> Github Stats 📊</h1>
