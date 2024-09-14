@@ -6,14 +6,14 @@
 
 <h1> About Me 👤</h1>
 
-<p>Hi there! My name is Thomas Fraser and I am an 18 year old from Fife, Scotland. I enjoy gaming, spending time with friends, my girlfriend and remembering semi colons...I am a soon to be second year Computing Science Student, @ Heriot Watt University, Edinburgh. <br> You can also find me here: </p>
+<p>Hi there! My name is Thomas Fraser and I am an 18 year old from Fife, Scotland. I enjoy gaming, spending time with friends, my girlfriend and remembering semi colons...I am a second year Computing Science Student, @ Heriot Watt University, Edinburgh. <br> You can also find me here: </p>
 
 <a href="https://www.linkedin.com/in/8thomas0fraser8/"> <img src="https://skillicons.dev/icons?i=linkedin"> </a>
 
 <h1> Languages & Tools I've Played Around With 🛠️</h1>
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,html,css,java,php,py,swift,mysql,bash,apple,bots,discordjs,nodejs,figma,gitlab,gamemakerstudio,eclipse,vscode&perline=9">
+<img src="https://skillicons.dev/icons?i=js,html,css,java,php,py,swift,mysql,bash,ocaml,apple,bots,discordjs,nodejs,figma,gitlab,gamemakerstudio,eclipse,vscode&perline=10">
 </a>
 
 <h1> My Achievements 🏆</h1>
