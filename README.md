@@ -2,9 +2,10 @@
   
 <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=12&text=Hello%20There!%20👋&textBg=false&reversal=false">
 
-<img src="https://github.com/user-attachments/assets/711a58eb-fd3a-4543-8358-5336a3a2d394">
+![image](https://github.com/user-attachments/assets/12a1529c-1922-4153-b94e-0be0c6d3015f)
 
 <h1> About Me 👤</h1>
+
 
 <p>Hi there! My name is Thomas Fraser and I am an 18 year old from Fife, Scotland. I enjoy gaming, spending time with friends, my girlfriend and remembering semi colons...I am a second year Computing Science Student, @ Heriot Watt University, Edinburgh. <br> You can also find me here: </p>
 
