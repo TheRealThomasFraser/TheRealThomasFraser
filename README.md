@@ -7,7 +7,7 @@
 <h1> About Me 👤</h1>
 
 
-<p>Hi there! My name is Thomas Fraser and I am an 18 year old from Fife, Scotland. I enjoy gaming, spending time with friends, thinking about my ex girlfriend and remembering semi colons...I am a second year Computing Science Student, @ Heriot Watt University, Edinburgh. <br> You can also find me here: </p>
+<p>Hi there! My name is Thomas and I am an 18 year old from Fife, Scotland. I enjoy gaming, spending time with friends, thinking about my ex girlfriend and remembering semi colons...I am a second year Computing Science Student, @ Heriot Watt University, Edinburgh. <br> You can also find me here: </p>
 
 <a href="https://www.linkedin.com/in/8thomas0fraser8/"> <img src="https://skillicons.dev/icons?i=linkedin"> </a>
 
