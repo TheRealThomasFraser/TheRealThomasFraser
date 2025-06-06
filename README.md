@@ -6,15 +6,14 @@
 
 <h1> About Me 👤</h1>
 
-
-<p>Hi there! My name is Thomas and I am an 18 year old from Fife, Scotland. I enjoy gaming, spending time with friends and remembering semi colons...I am a second year Computing Science Student, @ Heriot Watt University, Edinburgh. <br> You can also find me here: </p>
+<p> Hi! My name is Thomas and I am a computing science student, @ Heriot Watt University in Edinburgh. I enjoy spending my spare time coding, gaming and spending time with friends. :]<br> You can also find me here: </p>
 
 <a href="https://www.linkedin.com/in/8thomas0fraser8/"> <img src="https://skillicons.dev/icons?i=linkedin"> </a>
 
 <h1> Languages & Tools I've Used 🛠️</h1>
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,html,css,java,php,py,c,swift,mysql,bash,ocaml,raspberrypi,apple,bootstrap,bots,discordjs,nodejs,figma,gitlab,gamemakerstudio,eclipse,vscode,vite&perline=10">
+<img src="https://skillicons.dev/icons?i=windows,linux,apple,raspberrypi,bash,gitlab,github,vscode,eclipse,figma,gamemakerstudio,html,css,js,jquery,bootstrap,tailwind,npm,nodejs,vite,react,php,py,java,swift,c,cpp,ocaml,mysql,svg,bots&perline=11">
 </a>
 
 <h1> My Achievements 🏆</h1>
@@ -28,5 +27,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealThomasFraser&layout=compact&theme=ambient_gradient)](https://github.com/TheRealThomasFraser)
 
 <p align=center> <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=12&textBg=false&reversal=false&section=footer"> </p>
+
+<p> glorp </p>
 
 </div>
