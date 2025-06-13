@@ -32,6 +32,4 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=698ae8&textBg=false&fontAlign=50&fontColor=f8f9fe&reversal=false&section=footer"> 
 
-<p> glorp </p>
-
 </div>
