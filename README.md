@@ -17,5 +17,6 @@ In my free time, I enjoy:
 ## 🌐 You Can Also Find Me Here
 
 <a href="https://www.linkedin.com/in/8thomas0fraser8/"> <img src="https://skillicons.dev/icons?i=linkedin"> </a>
+<a href="https://x.com/ThomasFDev"> <img src="https://skillicons.dev/icons?i=twitter"> </a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=7fff00&section=footer">
